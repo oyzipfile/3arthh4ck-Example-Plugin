@@ -1,5 +1,5 @@
 # 3arthh4ck-Example-Plugin
-credits: https://github.com/colorblindness/3arthh4ck
+credits: [original phobos](https://github.com/3arthqu4ke/3arthh4ck)
 # how to build?
 ```
 gradlew setupDecompWorkspace
